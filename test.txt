@@ -7,3 +7,5 @@ Hi This is first machine second code change
 Hi this is second machine new changes
 
 Hi this is second machine code at same line
+
+Hi this is code at someline
