@@ -1,1 +1,3 @@
 Hi this is first machine
+
+HI this is second machine code
